@@ -1,0 +1,45 @@
+*{
+	box-sizing: border-box;
+}
+.content{
+	margin: 0 auto;
+	width:300px;
+}
+
+table td{
+	border:2px solid transparent;
+	width:46px;
+	height: 36px; 
+}
+.button{
+	width:100%;
+	height: 36px; 
+	color: #333;
+	background: #ccc;
+	font-size:18px;
+	text-align: center;
+	border-radius: 3px;
+	display: block;
+	padding-top:7px;
+	cursor: pointer;
+}
+.screen{
+	width: 100%;
+	height: 30px;
+	font-size: 16px;
+	text-align: right;
+	padding: 3px;
+}
+.add-calc_btn{
+	margin-bottom:20px;
+	padding: 5px 10px;
+	cursor: pointer;
+	border:1px solid #333;
+	background: #ccc;
+	color:#333;
+	border-radius: 3px;
+	margin-bottom:20px;
+	display: block;
+	width:150px;
+	text-align: center;
+}
